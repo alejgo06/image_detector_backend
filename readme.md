@@ -5,9 +5,19 @@ This api receives an image return the coordinate where a persona, animal or obje
 Each version is a improve from previous versions
 # versions:
 
-- V1. {people, dogs,cats}
-- V2. {people, dogs, cats, other}
-- V3. {people, dogs, cats, other, objects}
+
+- V1. {person, dogs, cats, other}
+- V2. {person, dogs, cats, other, objects}
+
+# Screenshot training
+
+![Screenshot](tensorboard1.PNG)
+
+![Screenshot](tensorboard2.PNG)
+
+# Screenshot api
+![Screenshot](apidemo.PNG)
+
 
 # run 
 

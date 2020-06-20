@@ -1,0 +1,2 @@
+from fastapi.models.models import get_instance_segmentation_model
+from fastapi.utils import predict_new_image
